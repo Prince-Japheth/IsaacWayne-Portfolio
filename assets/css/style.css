@@ -798,11 +798,11 @@ canvas {
 }
 
 .current-tab img {
-    filter: brightness(0) saturate(100%) invert(84%) sepia(7%) saturate(2912%) hue-rotate(94deg) brightness(94%) contrast(92%) !important;
+    filter: brightness(0) saturate(100%) invert(16%) sepia(99%) saturate(5000%) hue-rotate(280deg) brightness(96%) contrast(96%) !important;
 }
 
 .current-tab a {
-    filter: brightness(0) saturate(100%) invert(84%) sepia(7%) saturate(2912%) hue-rotate(94deg) brightness(94%) contrast(92%) !important;
+    filter: brightness(0) saturate(100%) invert(16%) sepia(99%) saturate(5000%) hue-rotate(280deg) brightness(96%) contrast(96%) !important;
 }
 
 .current-tab a {
@@ -1916,7 +1916,7 @@ button:hover .shopping_bag {
     margin-top: 30px;
     border-radius: 20px;
     transition: all 0.2s;
-    color: var(--2, #02050A);
+    color: var(--2, white);
     text-align: center;
     font-size: 20px;
     font-style: normal;
