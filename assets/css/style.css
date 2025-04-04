@@ -1944,6 +1944,7 @@ button:hover .shopping_bag {
     display: flex;
     align-items: center;
     gap: 10px;
+    filter: brightness(0) saturate(100%) invert(16%) sepia(99%) saturate(5000%) hue-rotate(280deg) brightness(96%) contrast(96%) !important
 }
 
 .contact_number a {
